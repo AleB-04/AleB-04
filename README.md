@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Alessandro Bocchino
 
-<!--
-**AleB-04/AleB-04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student in Electronic Engineering at Politecnico di Torino with a focus on Digital IC Design, RTL Development, Computer Architecture, and Low-Power Digital Systems.
 
-Here are some ideas to get you started:
+## Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Digital IC Design
+- RTL Development
+- Computer Architecture
+- RISC-V Systems
+- FPGA Prototyping
+- Low-Power Digital Design
+- ASIC Design Flows
+
+## Technical Skills
+
+- HDLs: VHDL, Verilog, SystemVerilog
+- EDA Tools: Synopsys Design Compiler, Quartus, ModelSim
+- Low-Power Design: UPF, Clock Gating, Power Analysis
+- Programming & Scripting: C/C++, Bash, Tcl
+
+## Featured Projects
+
+- Pipelined FFT Butterfly Architecture
+- FMC Burst-Capable Slave Interface
+- Low-Power RTL Design
+- RISC-V FPGA Badge
+
+## Currently Working On
+
+- RISC-V FPGA Badge (SemiTO-V)
+- MSc studies in Electronic Engineering
+- RTL Design and Digital Systems Architecture
